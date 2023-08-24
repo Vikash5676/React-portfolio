@@ -147,13 +147,7 @@ nav li a {
   word-break: break-all;
 }
 
-.images {
-  width: 30%;
-  height: 400px;
-  /* background-color: #a5d7e8; */
-  position: relative;
-  overflow: hidden;
-}
+
 
 .images:hover img {
   transform: scale(1.2);
@@ -170,15 +164,7 @@ nav li a {
   left: -30px;
 }
 
-.images img {
-  position: absolute;
-  width: 80%;
-  height: 80%;
-  object-fit: cover;
-  bottom: 10%;
-  right: 10%;
-  /* display: none; */
-}
+
 
 .free_shape {
   width: 200px;

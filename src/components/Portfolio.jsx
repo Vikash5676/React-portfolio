@@ -126,7 +126,7 @@ const Portfolio = () => {
           delivering transformative digital experiences, I'm dedicated to
           creating impactful solutions as a full stack developer.
         </div>
-        <div class="relative flex-[70%] md:basis-[35%] flex-grow-0  h-[400px] overflow-hidden">
+        <div class="images relative flex-[70%] md:basis-[35%] flex-grow-0  h-[400px] overflow-hidden">
           <div class="circle"></div>
           <div class="free_shape"></div>
           <img
