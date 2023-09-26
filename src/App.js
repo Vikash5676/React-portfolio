@@ -1,7 +1,8 @@
 import Header from './components/Header';
-import './App.css';
 import Footer from "./components/Footer"
 import Portfolio from './components/Portfolio';
+import './App.css';
+import "./Responsive.css"
 
 function App() {
   return (
